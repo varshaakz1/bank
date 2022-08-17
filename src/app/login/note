@@ -26,3 +26,4 @@ basic concepts
 3.1.2- view to component
 3.1.2.1 Event binding-(event-name)="function-call"
 3.1.2.2 Event binding using $event-(event-name)="function-call($event)"
+3.1.2.3 template referencing variable:syntax:#variable-name
